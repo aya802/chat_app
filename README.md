@@ -16,7 +16,8 @@ Simple and intuitive UI using Flutter's material design components
 
 ## Screenshots
 
-![img3](https://github.com/user-attachments/assets/59fc24e2-ee4b-4486-8ed7-7d662d1f778d)
+![img4](https://github.com/user-attachments/assets/06ef7df6-4a7b-405a-a785-0ff55324f09c)
+
 ![img2](https://github.com/user-attachments/assets/e8f1a696-f67f-42b6-a32b-cd55781a0d2f)
 ![img1](https://github.com/user-attachments/assets/49d2589d-c036-445d-a79c-1fb17351e279)
 
